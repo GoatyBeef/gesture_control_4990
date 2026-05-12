@@ -1,0 +1,7 @@
+{
+  "0": "CLICK",
+  "1": "MOVE",
+  "2": "NO_GESTURE",
+  "3": "SCROLL_DOWN",
+  "4": "SCROLL_UP"
+}
