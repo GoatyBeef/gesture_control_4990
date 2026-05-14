@@ -36,3 +36,5 @@ Currently supported gestures:
   CLICK: Pinch gesture (index and thumb).
   SCROLL UP/DOWN: Specific multi-finger configurations.
   NO GESTURE: Simply make a fist
+
+*I used the application "CAMO" to use my IOS device as a webcam to train and use this application, however the application works just fine using a regular webcam. The model may need to be trained and data gathered, using data_collector.py THEN train.py prior to using via main.py.
